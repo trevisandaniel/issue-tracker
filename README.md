@@ -35,3 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 npm install react-icons --save
+npm i classnames@2.3.2
